@@ -13,7 +13,6 @@ University: Vel Tech Rangarajan Dr. Sagunthala R&D Institute
 📚 Lab Experiments Overview
 
 Based on the Index page, the following experiments are included:
-
 🔹 UNIX & Shell Programming
 Practice on UNIX Commands
 Shell Programming (Fibonacci, String Comparison, Arithmetic, Factorial, etc.)
